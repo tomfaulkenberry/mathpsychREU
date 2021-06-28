@@ -1,0 +1,263 @@
+
+comparisonTask1
+07/20/2015	09:14:17 AM
+
+Participant	Participant	Session	Block	Trial	Event	Participant		Pressed Or		Pressed Or	Correct	Error	Reaction
+Group	Name	ID	Name	Name	Name	Response	Key	Released	Key	Released	Response	Code	Time	Trial Answered	compatibility	size
+Main Group			comparisonTask-LR	comparisonTaskLR, 43	numberLR (43, 73)	Button 7			7	Pressed	right; Button 7	C	802		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 4	numberLR (4, 14)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	480		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 3	numberLR (3, 13)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	504		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 64	numberLR (64, 99)	Button 7			7	Pressed	right; Button 7	C	402		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 57	numberLR (57, 91)	Button 7			7	Pressed	right; Button 7	C	446		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 18	numberLR (18, 32)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	412		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 56	numberLR (56, 89)	Button 7			7	Pressed	right; Button 7	C	442		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 51	numberLR (51, 83)	Button 7			7	Pressed	right; Button 7	C	436		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 31	numberLR (31, 48)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	479		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 17	numberLR (17, 31)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	440		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 2	numberLR (2, 12)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	502		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 62	numberLR (62, 97)	Button 7			7	Pressed	right; Button 7	C	367		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 40	numberLR (40, 69)	Button 7			7	Pressed	right; Button 7	C	591		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 22	numberLR (22, 37)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	453		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 41	numberLR (41, 71)	Button 7			7	Pressed	right; Button 7	C	657		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 5	numberLR (5, 16)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	451		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 38	numberLR (38, 67)	Button 7			7	Pressed	right; Button 7	C	429		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 33	numberLR (33, 61)	Button 7			7	Pressed	right; Button 7	C	426		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 49	numberLR (49, 81)	Button 7			7	Pressed	right; Button 7	C	437		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 26	numberLR (26, 42)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	433		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 39	numberLR (39, 68)	Button 7			7	Pressed	right; Button 7	C	397		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 8	numberLR (8, 19)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	460		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 23	numberLR (23, 38)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	582		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 1	numberLR (1, 11)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	476		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 7	numberLR (7, 18)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	488		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 25	numberLR (25, 41)	Button 7			7	Pressed	left; Button 1 (left)	E	418		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 59	numberLR (59, 93)	Button 7			7	Pressed	right; Button 7	C	519		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 37	numberLR (37, 66)	Button 7			7	Pressed	right; Button 7	C	496		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 61	numberLR (61, 96)	Button 7			7	Pressed	right; Button 7	C	443		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 58	numberLR (58, 92)	Button 7			7	Pressed	right; Button 7	C	454		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 12	numberLR (12, 24)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	467		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 47	numberLR (47, 78)	Button 7			7	Pressed	right; Button 7	C	554		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 11	numberLR (11, 23)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	436		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 29	numberLR (29, 46)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	750		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 9	numberLR (9, 21)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	526		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 54	numberLR (54, 87)	Button 7			7	Pressed	right; Button 7	C	534		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 15	numberLR (15, 28)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	574		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 35	numberLR (35, 63)	Button 7			7	Pressed	right; Button 7	C	1203		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 6	numberLR (6, 17)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	913		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 55	numberLR (55, 88)	Button 7			7	Pressed	right; Button 7	C	664		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 10	numberLR (10, 22)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	520		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 14	numberLR (14, 27)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	498		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 24	numberLR (24, 39)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	746		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 52	numberLR (52, 84)	Button 7			7	Pressed	right; Button 7	C	667		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 44	numberLR (44, 74)	Button 7			7	Pressed	right; Button 7	C	859		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 27	numberLR (27, 43)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	516		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 16	numberLR (16, 29)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	527		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 13	numberLR (13, 26)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	487		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 48	numberLR (48, 79)	Button 7			7	Pressed	right; Button 7	C	497		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 60	numberLR (60, 94)	Button 7			7	Pressed	right; Button 7	C	522		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 28	numberLR (28, 44)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	483		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 34	numberLR (34, 62)	Button 7			7	Pressed	right; Button 7	C	572		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 32	numberLR (32, 49)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	466		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 42	numberLR (42, 72)	Button 7			7	Pressed	right; Button 7	C	509		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 63	numberLR (63, 98)	Button 7			7	Pressed	right; Button 7	C	566		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 45	numberLR (45, 76)	Button 7			7	Pressed	right; Button 7	C	525		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 50	numberLR (50, 82)	Button 7			7	Pressed	right; Button 7	C	503		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 30	numberLR (30, 47)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	399		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 20	numberLR (20, 34)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	524		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 19	numberLR (19, 33)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	436		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 21	numberLR (21, 36)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	481		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 46	numberLR (46, 77)	Button 7			7	Pressed	right; Button 7	C	443		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 36	numberLR (36, 64)	Button 7			7	Pressed	right; Button 7	C	568		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 53	numberLR (53, 86)	Button 7			7	Pressed	right; Button 7	C	527		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 20	numberLR (20, 34)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	499		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 36	numberLR (36, 64)	Button 7			7	Pressed	right; Button 7	C	591		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 9	numberLR (9, 21)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	545		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 29	numberLR (29, 46)	Button 7			7	Pressed	left; Button 1 (left)	E	472		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 44	numberLR (44, 74)	Button 7			7	Pressed	right; Button 7	C	829		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 63	numberLR (63, 98)	Button 7			7	Pressed	right; Button 7	C	568		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 42	numberLR (42, 72)	Button 7			7	Pressed	right; Button 7	C	671		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 5	numberLR (5, 16)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	516		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 51	numberLR (51, 83)	Button 7			7	Pressed	right; Button 7	C	537		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 57	numberLR (57, 91)	Button 7			7	Pressed	right; Button 7	C	512		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 61	numberLR (61, 96)	Button 7			7	Pressed	right; Button 7	C	506		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 58	numberLR (58, 92)	Button 7			7	Pressed	right; Button 7	C	483		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 13	numberLR (13, 26)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	447		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 14	numberLR (14, 27)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	472		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 37	numberLR (37, 66)	Button 7			7	Pressed	right; Button 7	C	773		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 19	numberLR (19, 33)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	562		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 43	numberLR (43, 73)	Button 7			7	Pressed	right; Button 7	C	630		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 2	numberLR (2, 12)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	602		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 34	numberLR (34, 62)	Button 7			7	Pressed	right; Button 7	C	560		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 8	numberLR (8, 19)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	454		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 56	numberLR (56, 89)	Button 7			7	Pressed	right; Button 7	C	452		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 27	numberLR (27, 43)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	573		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 40	numberLR (40, 69)	Button 7			7	Pressed	right; Button 7	C	628		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 33	numberLR (33, 61)	Button 1 (left)			1	Pressed	right; Button 7	E	679		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 22	numberLR (22, 37)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	435		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 25	numberLR (25, 41)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	591		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 35	numberLR (35, 63)	Button 7			7	Pressed	right; Button 7	C	532		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 12	numberLR (12, 24)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	509		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 4	numberLR (4, 14)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	565		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 11	numberLR (11, 23)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	540		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 18	numberLR (18, 32)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	723		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 3	numberLR (3, 13)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	550		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 24	numberLR (24, 39)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	574		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 45	numberLR (45, 76)	Button 7			7	Pressed	right; Button 7	C	467		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 10	numberLR (10, 22)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	490		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 48	numberLR (48, 79)	Button 7			7	Pressed	right; Button 7	C	520		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 49	numberLR (49, 81)	Button 7			7	Pressed	right; Button 7	C	593		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 52	numberLR (52, 84)	Button 7			7	Pressed	right; Button 7	C	516		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 50	numberLR (50, 82)	Button 7			7	Pressed	right; Button 7	C	430		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 6	numberLR (6, 17)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	442		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 47	numberLR (47, 78)	Button 7			7	Pressed	right; Button 7	C	580		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 39	numberLR (39, 68)	Button 7			7	Pressed	right; Button 7	C	1131		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 53	numberLR (53, 86)	Button 7			7	Pressed	right; Button 7	C	538		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 62	numberLR (62, 97)	Button 7			7	Pressed	right; Button 7	C	464		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 60	numberLR (60, 94)	Button 7			7	Pressed	right; Button 7	C	398		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 15	numberLR (15, 28)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	553		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 59	numberLR (59, 93)	Button 7			7	Pressed	right; Button 7	C	545		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 30	numberLR (30, 47)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	503		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 21	numberLR (21, 36)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	595		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 7	numberLR (7, 18)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	488		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 17	numberLR (17, 31)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	450		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 41	numberLR (41, 71)	Button 7			7	Pressed	right; Button 7	C	492		incompatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 55	numberLR (55, 88)	Button 7			7	Pressed	right; Button 7	C	564		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 38	numberLR (38, 67)	Button 7			7	Pressed	right; Button 7	C	669		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 54	numberLR (54, 87)	Button 7			7	Pressed	right; Button 7	C	478		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 16	numberLR (16, 29)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	439		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 46	numberLR (46, 77)	Button 7			7	Pressed	right; Button 7	C	514		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 64	numberLR (64, 99)	Button 7			7	Pressed	right; Button 7	C	525		compatible	larger
+Main Group			comparisonTask-LR	comparisonTaskLR, 28	numberLR (28, 44)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	453		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 26	numberLR (26, 42)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	495		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 23	numberLR (23, 38)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	539		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 1	numberLR (1, 11)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	463		compatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 32	numberLR (32, 49)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	542		incompatible	smaller
+Main Group			comparisonTask-LR	comparisonTaskLR, 31	numberLR (31, 48)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	450		incompatible	smaller
+Main Group			break	break	Break2	Button 7			7	Pressed	(any response)	C	110382			
+Main Group			comparisonTask-RL	comparisonTaskRL, 58	numberRL (58, 92)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	506		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 1	numberRL (1, 11)	Button 7			7	Pressed	right; Button 7	C	465		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 26	numberRL (26, 42)	Button 7			7	Pressed	right; Button 7	C	555		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 59	numberRL (59, 93)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	420		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 64	numberRL (64, 99)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	466		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 23	numberRL (23, 38)	Button 7			7	Pressed	right; Button 7	C	412		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 33	numberRL (33, 61)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	473		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 46	numberRL (46, 77)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	449		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 27	numberRL (27, 43)	Button 7			7	Pressed	right; Button 7	C	638		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 54	numberRL (54, 87)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	448		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 34	numberRL (34, 62)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	1773		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 61	numberRL (61, 96)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	464		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 14	numberRL (14, 27)	Button 7			7	Pressed	right; Button 7	C	460		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 11	numberRL (11, 23)	Button 7			7	Pressed	right; Button 7	C	550		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 37	numberRL (37, 66)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	524		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 3	numberRL (3, 13)	Button 7			7	Pressed	right; Button 7	C	516		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 5	numberRL (5, 16)	Button 7			7	Pressed	right; Button 7	C	428		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 2	numberRL (2, 12)	Button 7			7	Pressed	right; Button 7	C	442		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 4	numberRL (4, 14)	Button 7			7	Pressed	right; Button 7	C	406		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 39	numberRL (39, 68)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	370		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 44	numberRL (44, 74)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	387		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 29	numberRL (29, 46)	Button 1 (left)			1	Pressed	right; Button 7	E	417		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 9	numberRL (9, 21)	Button 7			7	Pressed	right; Button 7	C	487		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 48	numberRL (48, 79)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	530		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 30	numberRL (30, 47)	Button 7			7	Pressed	right; Button 7	C	474		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 20	numberRL (20, 34)	Button 7			7	Pressed	right; Button 7	C	501		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 45	numberRL (45, 76)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	476		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 63	numberRL (63, 98)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	566		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 6	numberRL (6, 17)	Button 7			7	Pressed	right; Button 7	C	415		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 52	numberRL (52, 84)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	491		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 15	numberRL (15, 28)	Button 7			7	Pressed	right; Button 7	C	485		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 56	numberRL (56, 89)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	478		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 62	numberRL (62, 97)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	425		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 43	numberRL (43, 73)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	484		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 41	numberRL (41, 71)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	464		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 19	numberRL (19, 33)	Button 7			7	Pressed	right; Button 7	C	344		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 31	numberRL (31, 48)	Button 7			7	Pressed	right; Button 7	C	507		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 18	numberRL (18, 32)	Button 7			7	Pressed	right; Button 7	C	482		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 36	numberRL (36, 64)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	459		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 28	numberRL (28, 44)	Button 7			7	Pressed	right; Button 7	C	470		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 13	numberRL (13, 26)	Button 7			7	Pressed	right; Button 7	C	482		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 50	numberRL (50, 82)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	442		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 8	numberRL (8, 19)	Button 7			7	Pressed	right; Button 7	C	438		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 16	numberRL (16, 29)	Button 7			7	Pressed	right; Button 7	C	450		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 22	numberRL (22, 37)	Button 7			7	Pressed	right; Button 7	C	398		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 49	numberRL (49, 81)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	443		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 53	numberRL (53, 86)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	390		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 24	numberRL (24, 39)	Button 7			7	Pressed	right; Button 7	C	468		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 42	numberRL (42, 72)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	498		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 25	numberRL (25, 41)	Button 7			7	Pressed	right; Button 7	C	471		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 17	numberRL (17, 31)	Button 7			7	Pressed	right; Button 7	C	466		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 38	numberRL (38, 67)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	478		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 47	numberRL (47, 78)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	520		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 40	numberRL (40, 69)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	750		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 10	numberRL (10, 22)	Button 7			7	Pressed	right; Button 7	C	574		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 35	numberRL (35, 63)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	531		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 12	numberRL (12, 24)	Button 7			7	Pressed	right; Button 7	C	479		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 60	numberRL (60, 94)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	472		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 32	numberRL (32, 49)	Button 7			7	Pressed	right; Button 7	C	466		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 55	numberRL (55, 88)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	429		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 21	numberRL (21, 36)	Button 7			7	Pressed	right; Button 7	C	441		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 51	numberRL (51, 83)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	453		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 57	numberRL (57, 91)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	367		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 7	numberRL (7, 18)	Button 7			7	Pressed	right; Button 7	C	509		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 47	numberRL (47, 78)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	501		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 36	numberRL (36, 64)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	447		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 42	numberRL (42, 72)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	618		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 6	numberRL (6, 17)	Button 7			7	Pressed	right; Button 7	C	478		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 61	numberRL (61, 96)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	439		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 64	numberRL (64, 99)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	372		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 37	numberRL (37, 66)	Button 7			7	Pressed	left; Button 1 (left)	E	420		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 56	numberRL (56, 89)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	491		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 12	numberRL (12, 24)	Button 7			7	Pressed	right; Button 7	C	435		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 22	numberRL (22, 37)	Button 7			7	Pressed	right; Button 7	C	592		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 58	numberRL (58, 92)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	437		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 13	numberRL (13, 26)	Button 7			7	Pressed	right; Button 7	C	432		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 14	numberRL (14, 27)	Button 7			7	Pressed	right; Button 7	C	413		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 23	numberRL (23, 38)	Button 1 (left)			1	Pressed	right; Button 7	E	666		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 46	numberRL (46, 77)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	520		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 41	numberRL (41, 71)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	479		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 29	numberRL (29, 46)	Button 7			7	Pressed	right; Button 7	C	567		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 17	numberRL (17, 31)	Button 7			7	Pressed	right; Button 7	C	558		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 8	numberRL (8, 19)	Button 7			7	Pressed	right; Button 7	C	502		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 11	numberRL (11, 23)	Button 7			7	Pressed	right; Button 7	C	574		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 39	numberRL (39, 68)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	423		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 24	numberRL (24, 39)	Button 7			7	Pressed	right; Button 7	C	434		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 34	numberRL (34, 62)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	433		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 51	numberRL (51, 83)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	395		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 30	numberRL (30, 47)	Button 7			7	Pressed	right; Button 7	C	536		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 55	numberRL (55, 88)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	497		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 38	numberRL (38, 67)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	586		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 10	numberRL (10, 22)	Button 7			7	Pressed	right; Button 7	C	558		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 57	numberRL (57, 91)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	14698		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 35	numberRL (35, 63)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	599		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 48	numberRL (48, 79)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	589		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 5	numberRL (5, 16)	Button 7			7	Pressed	right; Button 7	C	466		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 45	numberRL (45, 76)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	428		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 33	numberRL (33, 61)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	829		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 21	numberRL (21, 36)	Button 7			7	Pressed	right; Button 7	C	612		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 52	numberRL (52, 84)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	392		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 40	numberRL (40, 69)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	456		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 2	numberRL (2, 12)	Button 7			7	Pressed	right; Button 7	C	419		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 18	numberRL (18, 32)	Button 7			7	Pressed	right; Button 7	C	493		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 28	numberRL (28, 44)	Button 7			7	Pressed	right; Button 7	C	536		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 7	numberRL (7, 18)	Button 7			7	Pressed	right; Button 7	C	464		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 4	numberRL (4, 14)	Button 7			7	Pressed	right; Button 7	C	412		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 1	numberRL (1, 11)	Button 7			7	Pressed	right; Button 7	C	409		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 26	numberRL (26, 42)	Button 1 (left)			1	Pressed	right; Button 7	E	357		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 43	numberRL (43, 73)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	462		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 60	numberRL (60, 94)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	473		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 63	numberRL (63, 98)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	482		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 9	numberRL (9, 21)	Button 7			7	Pressed	right; Button 7	C	445		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 50	numberRL (50, 82)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	665		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 16	numberRL (16, 29)	Button 7			7	Pressed	right; Button 7	C	413		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 59	numberRL (59, 93)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	505		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 15	numberRL (15, 28)	Button 7			7	Pressed	right; Button 7	C	400		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 31	numberRL (31, 48)	Button 7			7	Pressed	right; Button 7	C	511		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 27	numberRL (27, 43)	Button 7			7	Pressed	right; Button 7	C	473		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 54	numberRL (54, 87)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	419		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 49	numberRL (49, 81)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	401		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 19	numberRL (19, 33)	Button 7			7	Pressed	right; Button 7	C	380		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 20	numberRL (20, 34)	Button 7			7	Pressed	right; Button 7	C	713		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 3	numberRL (3, 13)	Button 7			7	Pressed	right; Button 7	C	456		compatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 62	numberRL (62, 97)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	532		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 32	numberRL (32, 49)	Button 7			7	Pressed	right; Button 7	C	527		incompatible	smaller
+Main Group			comparisonTask-RL	comparisonTaskRL, 53	numberRL (53, 86)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	581		compatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 44	numberRL (44, 74)	Button 1 (left)			1	Pressed	left; Button 1 (left)	C	586		incompatible	larger
+Main Group			comparisonTask-RL	comparisonTaskRL, 25	numberRL (25, 41)	Button 7			7	Pressed	right; Button 7	C	591		compatible	smaller
